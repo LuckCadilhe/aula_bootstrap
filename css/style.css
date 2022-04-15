@@ -1,0 +1,21 @@
+body{
+    font: 20px Ariel, sans-serif
+}
+
+.navbar-brand{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.navbar {
+    background-color: #7E8287;
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 10px;
+}
+
+.bg-footer{
+    background-color: #7E8287 ;
+}
